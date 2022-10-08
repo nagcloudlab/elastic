@@ -6,8 +6,6 @@ By the end of this workshop, you will be able to:
 - understand the basic architecture of Elasticsearch
 - perform CRUD(Create, Read, Update, and Delete) operations with Elasticsearch and Kibana
 
-## Resources
-
 ## Getting information about cluster and nodes
 
 Syntax:

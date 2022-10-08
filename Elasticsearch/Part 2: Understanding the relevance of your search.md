@@ -6,8 +6,6 @@ By the end of this workshop, you will:
 - understand how scoring is used to rank the relevance of your search results in Elasticsearch
 - master how to send search queries from Kibana to Elasticsearch to finetune Precision or Recall of your search results
 
-## Resources
-
 ## Search for information
 
 There are two main ways to search in Elasticsearch:

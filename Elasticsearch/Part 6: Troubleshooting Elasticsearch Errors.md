@@ -6,8 +6,6 @@ As you continue your journey with Elasticsearch, you will inevitably encounter s
 
 Learn how to troubleshoot these pesky errors so you can get unstuck!
 
-## Resources
-
 ## Want To Troubleshoot Your Errors? Follow The Clues!
 
 Whenever you perform an action with Elasticsearch and Kibana, Elasticsearch responds with an HTTP status and a response body.

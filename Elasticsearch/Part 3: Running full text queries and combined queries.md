@@ -6,8 +6,6 @@ Workshop objectives:
 - build a combination of queries to answer more complex questions
 - fine-tune the relevance of search results
 
-## Resources
-
 ## Review from Workshop Part 2
 
 There are two main ways to search in Elasticsearch:

@@ -6,8 +6,6 @@ By the end of this workshop, you will be able to run:
 - buckets aggregations
 - combined aggregations
 
-## Resources
-
 ## Set up data within Elasticsearch
 
 Often times, the dataset is not optimal for running requests in its original state.
